@@ -19,5 +19,5 @@ Good noodles. Not a lot of flavour. Oily is a plus. I'll def enjoy them.
 The taste is good but a little weak. 
 
 Picture: 
-[YATO_1](./YATO_MEE_GORENG_1.jpg)
-[YATO_2](./YATO_MEE_GORENG_2.jpg)
+![YATO_1](./YATO_MEE_GORENG_1.jpg)
+![YATO_2](./YATO_MEE_GORENG_2.jpg)
