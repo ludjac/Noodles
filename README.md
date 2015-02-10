@@ -21,8 +21,8 @@ Buy-again: 6/10
 Good soup. Not a lot of flavour. Oily is a plus. I'll def enjoy them. 
 The taste is good but a little weak. 
 
-![YATO_1](./YATO_MEE_GORENG_1.jpg)
-![YATO_2](./YATO_MEE_GORENG_2.jpg)
+<img src="img/YATO_MEE_GORENG_1.jpg" alt="YATO_1" style="width: 200px;"/>
+<img src="img/YATO_MEE_GORENG_2.jpg" alt="YATO_2" style="width: 200px;"/>
 
 2. Samyang Ramen Sutah
 ----------------------
