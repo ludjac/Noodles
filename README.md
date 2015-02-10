@@ -21,7 +21,7 @@ Buy-again: 6/10
 Good soup. Not a lot of flavour. Oily is a plus. I'll def enjoy them. 
 The taste is good but a little weak. 
 
-<img src="img/YATO_MEE_GORENG.jpg" alt="YATO_ME_GORENG" style="width: 400px;"/>
+<img src="img/YATO_MEE_GORENG.jpg" alt="YATO_ME_GORENG" width="400px"/>
 
 2. Samyang Ramen Sutah
 ----------------------
@@ -35,6 +35,6 @@ Buy-again: 8/10
 
 Very good soup. Almost perfect spicyness. slightly strong. Noodles are a bit tasteless. No broth is a minus on the richness, only powder and garnish. 
 
-<img src="img/SAMYANG_SUTAH.jpg" alt="SAMYANG_SUTAH" width="400px;"/>
+<img src="img/SAMYANG_SUTAH.jpg" alt="SAMYANG_SUTAH" width="400px"/>
 
 
