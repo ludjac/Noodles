@@ -3,6 +3,8 @@ Instant Noodles Test
 
 From China Livs Möllan  
 1. Yato Mee-Goreng  
+2. Samyang Ramen Sutah  
+
 
 1. Yato Mee-Goreng
 ------------------
@@ -10,14 +12,31 @@ Dry (!) Ramen Noodles
 
 Didnt realize they were dry noodles when i bought them. I am in the market for noodle soup so I made a soup anyway.  
 
-Spicyness: 0/5  
+Spicyness: 2/10  
 Noodles: 7/10  
 Richness: 5/10  
 Flavour: 7/10  
-Buy-again: 7/10    
+Buy-again: 6/10    
 
-Good noodles. Not a lot of flavour. Oily is a plus. I'll def enjoy them. 
+Good soup. Not a lot of flavour. Oily is a plus. I'll def enjoy them. 
 The taste is good but a little weak. 
 
 ![YATO_1](./YATO_MEE_GORENG_1.jpg)
 ![YATO_2](./YATO_MEE_GORENG_2.jpg)
+
+2. Samyang Ramen Sutah
+----------------------
+Hot&Spicy Flavour  
+
+Spicyness: 8/10  
+Noodles: 5/10  
+Richness: 7/10  
+Flavour: 8/10  
+Buy-again: 8/10  
+
+Very good soup. Almost perfect spicyness. slightly strong. Noodles are a bit tasteless. No broth is a minus on the richness, only powder and garnish. 
+
+![SAMYANG_SUTAH_1](./SAMYANG_SUTAH_1.jpg)
+![SAMYANG_SUTAH_2](./SAMYANG_SUTAH_2.jpg)
+
+
