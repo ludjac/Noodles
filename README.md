@@ -3,7 +3,7 @@ Instant Noodles Test
 
 1. **Yato Mee-Goreng**  
 2. **Samyang Ramen Sutah**  
-3. **Kong Shi Fan Chicken**  
+3. **Kang Shi Fu Chicken**  
 
 1. Yato Mee-Goreng 
 ------------------ 
@@ -40,7 +40,7 @@ tasteless. No broth is a minus on the richness, only powder and garnish.
 
 <img src="img/SAMYANG_SUTAH.jpg" alt="SAMYANG_SUTAH" width="400px"/>
 
-3. Kong Shi Fan Chicken Noodle 
+3. Kang Shi Fu Chicken Noodle 
 ----------------------
 
 **Spicyness: 3/10**  
@@ -49,8 +49,8 @@ tasteless. No broth is a minus on the richness, only powder and garnish.
 **Flavour: 8/10**  
 **Buy-again: 9/10**  
 
-First time Kong Shi Fan chicken soup. Very rich taste, but does it taste
-Chicken? Nevermind, Kong Shi Fan delivers outstanding tasting noodles as usual.
+First time Kang Shi Fu chicken soup. Very rich taste, but does it taste
+Chicken? Nevermind, Kang Shi Fu delivers outstanding tasting noodles as usual.
 The noodles are not spicy at all, but still rich in flavour. Would buy again. 
 
 <img src="img/KONG_SHI_FAN_CHICKEN.jpg" alt="KONG_SHI_FAN_CHICKEN" width="400px"/>
