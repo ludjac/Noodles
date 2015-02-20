@@ -55,7 +55,7 @@ First time Kang Shi Fu chicken soup. Very rich taste, but does it taste
 Chicken? Never the less, Kang Shi Fu delivers outstanding tasting noodles as usual.
 The noodles are not spicy at all, but still rich in flavour. Would buy again. 
 
-<img src="img/KONG_SHI_FAN_CHICKEN.jpg" alt="KONG_SHI_FAN_CHICKEN" width="400px"/>
+<img src="img/KANG_SHI_FAN_CHICKEN.jpg" alt="KANG_SHI_FAN_CHICKEN" width="400px"/>
 
 4. Shin Ramyun Gourmet Spicy 
 ----------------------
@@ -86,4 +86,4 @@ First time Kang Shi Fu seafood soup. Very rich taste, but the seafood flavour is
 style.The noodles are not spicy at all, but still rich in flavour. Would only buy again if 
 i need a break from beef flavour. 
 
-<img src="img/KONG_SHI_FAN_SEAFOOD.jpg" alt="KONG_SHI_FAN_SEAFOOD" width="400px"/>
+<img src="img/KANG_SHI_FAN_SEAFOOD.jpg" alt="KANG_SHI_FAN_SEAFOOD" width="400px"/>
