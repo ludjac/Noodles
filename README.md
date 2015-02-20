@@ -4,6 +4,8 @@ Instant Noodles Test
 1. **Yato Mee-Goreng**  
 2. **Samyang Ramen Sutah**  
 3. **Kang Shi Fu Chicken**  
+4. **Shin Ramyun Gourmet Spicy**  
+5. **Kang Shi Fu Seafood**  
 
 1. Yato Mee-Goreng 
 ------------------ 
@@ -19,8 +21,8 @@ noodle soup so I made a soup anyway.
 **Flavour: 7/10**  
 **Buy-again: 6/10**    
 
-Good soup. Not a lot of flavour. Oily is a plus. I'll def enjoy them.  The
-taste is good but a little weak. 
+Ok soup, but not a lot of flavour. Oily is a plus. I'll def enjoy them.  The
+taste is good but a little weak. Prob becouse of not meant to be soup. 
 
 <img src="img/YATO_MEE_GORENG.jpg" alt="YATO_ME_GORENG" width="400px"/>
 
@@ -50,7 +52,38 @@ tasteless. No broth is a minus on the richness, only powder and garnish.
 **Buy-again: 9/10**  
 
 First time Kang Shi Fu chicken soup. Very rich taste, but does it taste
-Chicken? Nevermind, Kang Shi Fu delivers outstanding tasting noodles as usual.
+Chicken? Never the less, Kang Shi Fu delivers outstanding tasting noodles as usual.
 The noodles are not spicy at all, but still rich in flavour. Would buy again. 
 
 <img src="img/KONG_SHI_FAN_CHICKEN.jpg" alt="KONG_SHI_FAN_CHICKEN" width="400px"/>
+
+4. Shin Ramyun Gourmet Spicy 
+----------------------
+noodle soup
+
+**Spicyness: 8/10**  
+**Noodles: 8/10**  
+**Richness: 6/10**  
+**Flavour: 6/10**  
+**Buy-again: 7/10**  
+
+Only powder soup reduces the richness and these noodles have a hard time competing 
+with broth noodle soups. Still, good spicyness. Flavour is not awesome but still very
+edible noodles. 
+
+<img src="img/SHIN_RAMYUN_GOURMET_SPICY.jpg" alt="SHIN_RAMYUN_GOURMET_SPICY" width="400px"/>
+
+5. Kang Shi Fu Seafood
+----------------------
+
+**Spicyness: 3/10**  
+**Noodles: 8/10**  
+**Richness: 9/10**  
+**Flavour: 6/10**  
+**Buy-again: 7/10**  
+
+First time Kang Shi Fu seafood soup. Very rich taste, but the seafood flavour is not my
+style.The noodles are not spicy at all, but still rich in flavour. Would only buy again if 
+i need a break from beef flavour. 
+
+<img src="img/KONG_SHI_FAN_SEAFOOD.jpg" alt="KONG_SHI_FAN_SEAFOOD" width="400px"/>
